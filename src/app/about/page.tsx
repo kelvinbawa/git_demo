@@ -1,7 +1,10 @@
-import React from 'react'
+import React from "react";
 
 export default function page() {
-    return (
-        <h1>page</h1>
-    )
+	return (
+		<div>
+			<h2>Hello page</h2>
+			<div>clean page</div>
+		</div>
+	);
 }
